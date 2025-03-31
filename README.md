@@ -23,12 +23,9 @@ API: RESTful APIs for task management
 
 
 ⚙️ Installation
-1. Clone the Repository
-git clone https://github.com/yourusername/permalist.git
-cd permalist
-2. Install Dependencies
+1. Install Dependencies
 npm install
-3. Configure Database
+2. Configure Database
 Create a PostgreSQL database named permalist.
 Update the database connection in /config/db.js:
 
@@ -44,7 +41,7 @@ const db = new pg.Client({
 
 
 
-4. Run Database Migration
+3. Run Database Migration
 Run SQL queries to create the required tables:
 CREATE TABLE items (
   id SERIAL PRIMARY KEY,
@@ -53,9 +50,9 @@ CREATE TABLE items (
 
 INSERT INTO items (title) VALUES ('Buy milk'), ('Finish homework');
 
-5. Start the Application
+4. Start the Application
 npm start
-6. Open in Browser
+5. Open in Browser
 Visit http://localhost:3000 to access the application.
 
 📡 API Endpoints
