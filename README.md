@@ -1,7 +1,7 @@
-# to-do_list
+# permalist
 
 
-To-do list or Permalist is a dynamic and user-friendly web application that allows users to create, manage, and organize their tasks efficiently. Built with a modern tech stack, it offers persistent data storage, intuitive UI, and seamless interaction with APIs to enhance task management.
+Permalist is a dynamic and user-friendly web application that allows users to create, manage, and organize their tasks efficiently. Built with a modern tech stack, Permalist offers persistent data storage, intuitive UI, and seamless interaction with APIs to enhance task management.
 
 🚀 Features
 ✅ Add, update, and delete tasks
