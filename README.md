@@ -1,4 +1,4 @@
-# permalist
+# Permalist
 
 
 Permalist is a dynamic and user-friendly web application that allows users to create, manage, and organize their tasks efficiently. Built with a modern tech stack, Permalist offers persistent data storage, intuitive UI, and seamless interaction with APIs to enhance task management.
