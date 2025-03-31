@@ -15,7 +15,7 @@ Permalist is a dynamic and user-friendly web application that allows users to cr
 🛠️ Tech Stack
 Frontend: HTML, CSS, EJS
 
-Backend: Node.js, Express.js,EJS
+Backend: Node.js, Express.js
 
 Database: PostgreSQL
 
